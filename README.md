@@ -10,7 +10,9 @@
 
 ## Autores
 <ul>
-<li>Miguel Daniel Velandia Pinilla - 2182073</li>, <li>Juan Daniel Suarez Jaimes - 2182043</li>, <li>Juan Sebastian Espinosa Espinosa - 2183184</li>
+<li>Miguel Daniel Velandia Pinilla - 2182073</li>
+<li>Juan Daniel Suarez Jaimes - 2182043</li>
+<li>Juan Sebastian Espinosa Espinosa - 2183184</li>
 </ul>
 
 
