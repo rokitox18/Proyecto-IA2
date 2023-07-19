@@ -36,7 +36,7 @@ El enlace al notebook de google collaboratory para el desarrollo del proyecto es
 "https://colab.research.google.com/drive/1X2Aj6T4mzBpbg1EA8MxrNFTHtEZ3irKt#scrollTo=v6frQ-qRQC4o"
 
 ## Video
-El enlace al video resumen del proyecto, es el siguiente:"AQUI PONE EL LINK DEL VIDEO"
+El enlace al video resumen del proyecto, es el siguiente:"https://youtu.be/GmRazPK9cPU"
 
 ## Repositorio
 El enlace del repositorio es el siguiente: "https://github.com/rokitox18/Proyecto-IA2"
