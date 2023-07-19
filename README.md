@@ -19,9 +19,6 @@
 ## Objetivo
 Clasificar videojuegos con una CNN a partir de imagenes de sus respectivos gameplays.
 
-## Estimadores
-Se usaron varios estimadores en este proyecto, se usaron de clasificacion: GaussianNB, Decision Tree, Random Forest y SVC, y de regresion: Decision Tree y Random Forest.
-
 ## Dataset
 
 El dataset usado para realizar esta clasificacion, fue realizado en parte por los integrantes del grupo, y se puede encontrar en el siguiente enlace: "https://drive.google.com/drive/folders/1RTq93PnZtZEf5GJ5DPZQK0SZC7mnNqdn?usp=sharing" 
@@ -36,6 +33,6 @@ El enlace al notebook de google collaboratory para el desarrollo del proyecto es
 El enlace al video resumen del proyecto, es el siguiente:"https://youtu.be/CQnr75VZuog"
 
 ## Repositorio
-El enlace del repositorio es el siguiente: "https://github.com/rokitox05/Proyecto-IA"
+El enlace del repositorio es el siguiente: "https://github.com/rokitox18/Proyecto-IA2"
 
 
