@@ -1,5 +1,5 @@
-# Inteligencia Artificial I
-# Analisis en las ventas globales de los videojuegos - Proyecto IA
+# Inteligencia Artificial II
+# Clasificación de videojuegos a partir de imagenes de sus gameplays - Proyecto IA2
 
 ## ¡Bienvenidos a nuestro proyecto!
 
