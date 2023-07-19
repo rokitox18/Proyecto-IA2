@@ -4,7 +4,7 @@
 ## ¡Bienvenidos a nuestro proyecto!
 
 <p align="center">
-<img src="[https://github.com/rokitox05/Proyecto-IA/blob/main/bannerchido.png](https://github.com/rokitox18/Proyecto-IA2/blob/4f331f1d0b46e89da76fec3e694f5317fbc29297/Clasificacion%20de%20videojuegos%20a%20partir%20de%20imagenes%20de%20sus%20gameplays.jpg)"  width="800px" height="300px">
+<img src="https://github.com/rokitox18/Proyecto-IA2/blob/main/Clasificacion%20de%20videojuegos%20a%20partir%20de%20imagenes%20de%20sus%20gameplays.jpg"  width="800px" height="300px">
  </p>
 
 
